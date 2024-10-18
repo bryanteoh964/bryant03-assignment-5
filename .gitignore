@@ -1,0 +1,2 @@
+# To ignore .csv files test, train, sample_submission
+*.csv
